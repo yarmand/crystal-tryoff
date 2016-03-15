@@ -1,0 +1,15 @@
+name: crystal-tryoff
+version: 0.1.0
+
+authors:
+  - yann ARMAND <yarmand@yammer-inc.com>
+
+license: MIT
+
+dependencies:
+ emoji:
+    github: veelenga/emoji.cr
+    version: 0.1.0
+ kemal:
+    github: sdogruyol/kemal
+    version: 0.8.0
